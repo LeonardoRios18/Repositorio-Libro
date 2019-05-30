@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RL", "RepositorioLibro\RL.csproj", "{1A8A70D9-6961-4898-AF9C-57ACDAAD099A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pag 124 3", "pag 124 3", "{5C880D7B-2290-4B8E-930A-A09E8B3185F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pag 124 3.2", "pag 124 3.2", "{A45F5F33-D5C2-4B5A-904D-2E0C948F214B}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pag 124", "pag 124", "{F66DF875-8630-4CB4-99FE-DF11949EDA1C}"
+	ProjectSection(SolutionItems) = preProject
+		Class2.cs = Class2.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pag 124 5", "pag 124 5", "{B2BA4F6E-E67B-400A-94F1-2E2630586740}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pag 159 1", "pag 159 1", "{4B7F66EC-7DA8-48B2-A6C8-7020031AAAA7}"
+	ProjectSection(SolutionItems) = preProject
+		Class3.cs = Class3.cs
+		Class4.cs = Class4.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pag 159 2", "pag 159 2", "{378185E7-E486-4075-99FC-313210AEA45A}"
+	ProjectSection(SolutionItems) = preProject
+		Class5.cs = Class5.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pag 159 3", "pag 159 3", "{7D4E60D4-9394-49AC-9D7A-278FF31D7769}"
+	ProjectSection(SolutionItems) = preProject
+		Class6.cs = Class6.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pag 159 4", "pag 159 4", "{15489678-CA96-43B1-9D71-B32798E13DDD}"
+	ProjectSection(SolutionItems) = preProject
+		Class7.cs = Class7.cs
+		Class8.cs = Class8.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8A70D9-6961-4898-AF9C-57ACDAAD099A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8A70D9-6961-4898-AF9C-57ACDAAD099A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8A70D9-6961-4898-AF9C-57ACDAAD099A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8A70D9-6961-4898-AF9C-57ACDAAD099A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1A8A70D9-6961-4898-AF9C-57ACDAAD099A} = {5C880D7B-2290-4B8E-930A-A09E8B3185F4}
+		{B2BA4F6E-E67B-400A-94F1-2E2630586740} = {F66DF875-8630-4CB4-99FE-DF11949EDA1C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93DBBFFF-489B-4699-88A7-538CAA378A96}
+	EndGlobalSection
+EndGlobal

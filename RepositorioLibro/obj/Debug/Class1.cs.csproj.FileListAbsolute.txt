@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\ADSI 2019\C Char\RepositorioLibro\RepositorioLibro\bin\Debug\RepositorioLibro.exe.config
+C:\Users\Usuario\Documents\ADSI 2019\C Char\RepositorioLibro\RepositorioLibro\bin\Debug\RepositorioLibro.exe
+C:\Users\Usuario\Documents\ADSI 2019\C Char\RepositorioLibro\RepositorioLibro\bin\Debug\RepositorioLibro.pdb
+C:\Users\Usuario\Documents\ADSI 2019\C Char\RepositorioLibro\RepositorioLibro\obj\Debug\Class1.cs.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ADSI 2019\C Char\RepositorioLibro\RepositorioLibro\obj\Debug\Class1.cs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ADSI 2019\C Char\RepositorioLibro\RepositorioLibro\obj\Debug\RepositorioLibro.exe
+C:\Users\Usuario\Documents\ADSI 2019\C Char\RepositorioLibro\RepositorioLibro\obj\Debug\RepositorioLibro.pdb
